@@ -1,0 +1,27 @@
+footer{
+  width: 1440px;
+  height: 150px;
+  top: 3772px;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 95.52%;
+  bottom: 0%;
+}
+
+footer h3{
+text-align: center;
+}
+.color-footer{
+  color: rgb(194, 65, 65);
+}
+.white{
+  color: rgba(255, 255, 255, 0.493);
+}
+
+footer p{
+  text-align: center
+  ;}
+  footer{
+    background-color:  #0B0D17;;
+  }
