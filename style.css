@@ -22,7 +22,7 @@ h2{
 .donate-image{
   background-image: url(image/donation13.jpg);
   background-color: #cccccc;
-  height: 720px;
+  height: 700px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,7 +48,7 @@ h2{
   background-color: #FF5959;
   color: white;
   font-weight: 400;
-  padding: 10px 10px;
+  padding: 5px 5px;
   border-radius: 5px;
   text-align: center;
   margin-top: 50px;
@@ -106,7 +106,7 @@ border-radius: 5px;
      position: absolute;
     width: 770px;
     height: 0px;
-    left: 320px;
+    left: 350px;
     top: 800px;
     border-bottom: 2px solid #a8a8a8a2;
     margin-top: 300px;
@@ -129,6 +129,7 @@ border-radius: 5px;
   align-items: center;
   padding: 30px 30px 10px;
   gap: 8px;
+  margin-top: 2px;
 }
 
 /* Third-container */
@@ -176,12 +177,14 @@ border-radius: 5px;
 .half-width{width: 50%;
   padding-left: 5%;
 }
-.half-width img{
- width: 456px;
- height: 477px;
- left: 732px;
- top: 2078px;
-}
+ .half-width img{
+ width: 400px;
+ height: 400px;
+ left: 500px;
+ right: 500px;
+ top: 2500px;
+  border-radius: 20px;
+} 
 .lest-color{
   color: #707070;
 }
@@ -206,8 +209,10 @@ border-radius: 5px;
  /* Footer */
 
 footer h3{
+  font-size: 30px;
   text-align: center;
   margin-top: 120px;
+  font-family: 'Dancing Script', cursive;
 }
 .color-footer{
   color: rgb(194, 65, 65);
