@@ -22,7 +22,7 @@ h2{
 .donate-image{
   background-image: url(image/donation13.jpg);
   background-color: #cccccc;
-  height: 700px;
+  height: 720px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -116,7 +116,7 @@ border-radius: 5px;
   position: absolute;
   width: 192px;
   height: 28px;
-  left: 600px;
+  left: 650px;
   top: 770px;
   margin-top: 300px;
   
