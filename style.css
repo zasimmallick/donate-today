@@ -22,7 +22,7 @@ h2{
 .donate-image{
   background-image: url(image/donation13.jpg);
   background-color: #cccccc;
-  height: 640px;
+  height: 700px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -33,7 +33,7 @@ h2{
   position: absolute;
   width: 826px;
   height: 320px;
-  left: 310px;
+  left: 320px;
   top: 50px;
   text-align: center;
   color: white;
@@ -87,13 +87,13 @@ border-radius: 5px;
 }
 #leniar-color{
   width: 85px;
-height: 70px;
-left: 70px;
-right: 70px;
-top: 70px;
-  background: #FFEEEE;
-border: 2px solid #FF5959;
-border-radius: 5px;
+ height: 70px;
+ left: 70px;
+ right: 70px;
+ top: 70px;
+ background: #FFEEEE;
+ border: 2px solid #FF5959;
+ border-radius: 5px;
 }
 
 
