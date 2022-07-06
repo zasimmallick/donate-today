@@ -1,8 +1,8 @@
 body{
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
+   font-family: 'Poppins', sans-serif;
+   margin: 0;
    background-repeat: no-repeat;
-  background-attachment: scroll
+   background-attachment: scroll
 
 }
  ----- 
@@ -27,12 +27,12 @@ h1{
 
  .first-text{
   position: absolute;
- width: 826px;
- height: 320px;
- left: 250px;
- top: 50px;
- text-align: center;
- color: white;
+  width: 826px;
+  height: 320px;
+  left: 250px;
+  top: 50px;
+  text-align: center;
+  color: white;
 }
 
 .link-button{
@@ -43,6 +43,7 @@ h1{
   padding: 10px 10px;
   border-radius: 5px;
   text-align: center;
+  margin-top: 50px;
 }
 
  /* second-container */
@@ -50,6 +51,7 @@ h1{
 
 .second-text{
   text-align: center;
+  margin-top: 50px;
 }
 .color-whitep{
   color: #707070;;
@@ -59,7 +61,31 @@ h1{
  grid-template-columns: repeat(5 ,1fr );
  padding: 30px 400px ;
  color: #707070;;
+ text-align: center;
+ margin-top: 20px;
 
+}
+
+#back-color{
+
+width: 85px;
+height: 70px;
+left: 70px;
+right: 70px;
+top: 70px;
+
+background: #FAFAFA;;
+border-radius: 5px;
+}
+#leniar-color{
+  width: 85px;
+height: 70px;
+left: 70px;
+right: 70px;
+top: 70px;
+  background: #FFEEEE;
+border: 2px solid #FF5959;
+border-radius: 5px;
 }
 
 
@@ -75,22 +101,24 @@ h1{
     left: 300px;
     top: 800px;
     border-bottom: 2px solid #a8a8a8a2;
+    margin-top: 150px;
 }
 .p-text{
   position: absolute;
-width: 192px;
-height: 28px;
-left: 570px;
-top: 770px;
+  width: 192px;
+  height: 28px;
+  left: 570px;
+  top: 770px;
+  margin-top: 150px;
 }
 
 .link{
   display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 30px 30px 10px;
-gap: 8px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 30px 10px;
+  gap: 8px;
 }
 
 /* Third-container */
@@ -113,8 +141,8 @@ gap: 8px;
 }
 .icon-pic{
     width: 15%; 
-   padding-left: 5%;
-   padding-top: 10px;
+    padding-left: 5%;
+    padding-top: 10px;
 }
 #web-dev{
   border-left: 7px solid;
@@ -139,35 +167,37 @@ gap: 8px;
   padding-left: 5%;
 }
 .half-width img{
-width: 456px;
-height: 477px;
-left: 732px;
-top: 2078px;
+ width: 456px;
+ height: 477px;
+ left: 732px;
+ top: 2078px;
 }
 .lest-color{
   color: #707070;
 }
 
    /* Email */
-
+ 
 .from-email{
    text-align: center;
+   margin-top: 50px;
+
 }
 .submit-link{
     text-decoration: none;
-  background-color: #FF5959;
-  color: white;
-  font-weight: 200;
-  padding: 5px 10px;
-  border-radius: 5px;
-  text-align: center;
-}
+    background-color: #FF5959;
+    color: white;
+    font-weight: 200;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+ }
 
  /* Footer */
 
 footer h3{
-text-align: center;
- margin-top: 120px;
+  text-align: center;
+  margin-top: 120px;
 }
 .color-footer{
   color: rgb(194, 65, 65);
@@ -177,9 +207,9 @@ text-align: center;
 }
 
 footer p{
-  text-align: center
+   text-align: center
   ;}
   footer{
     background-color:  #0B0D17;;
-   height: 120px;
+    height: 120px;
   }
