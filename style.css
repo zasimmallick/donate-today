@@ -8,17 +8,21 @@ body{
  ----- 
  /* first-container */
  ------
-h1{
-  font-size: 45px;
+
+ h1{
+  font-size: 70px;
   
 }
 h1{
-  font-size: 45px;
+  font-size: 70px;
+}
+h2{
+  font-size: 35px;
 }
 .donate-image{
   background-image: url(image/donation13.jpg);
   background-color: #cccccc;
-  height: 500px;
+  height: 640px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,7 +40,7 @@ h1{
  }
  
 .first-p{
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .link-button{
@@ -105,7 +109,8 @@ border-radius: 5px;
     left: 320px;
     top: 800px;
     border-bottom: 2px solid #a8a8a8a2;
-    margin-top: 150px;
+    margin-top: 300px;
+   
 }
 .p-text{
   position: absolute;
@@ -113,7 +118,8 @@ border-radius: 5px;
   height: 28px;
   left: 600px;
   top: 770px;
-  margin-top: 150px;
+  margin-top: 300px;
+  
 }
 
 .link{
